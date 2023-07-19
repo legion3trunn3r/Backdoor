@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/xIAk3m7.png" alt="cyberpunk" width="250" />
+<img src="https://i.imgur.com/xIAk3m7.png" alt="cyberpunk" width="500" />
 
 Backdoor for manipulating with other computers
 
