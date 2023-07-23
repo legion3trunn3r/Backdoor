@@ -286,7 +286,3 @@ int main() {
 	return 0;
 
 }
-
-
-// Dopisat, esli user owibetsia v nazvanii faila
-// Esli eto text, otkrit ego i perenesti text
