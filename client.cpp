@@ -239,21 +239,6 @@ public:
 		}
 		if (upload == "upload") return 'B';
 		//-----------------------------------
-		////----------Keylog_start------------------------
-		//string keylog_start = "qfgzdqpvsghp";
-		//for (int i = 0; i < 12; ++i) {
-		//	keylog_start[i] = command[i];
-		//}
-		//if (keylog_start == "keylog_start") return 'C';
-		////----------------------------------------------
-		////---------Keylog_dump---------------------------
-		//string keylog_dump = "qwertgxhkyu";
-		//for (int i = 0; i < 1; ++i) {
-		//	keylog_dump[i] = command[i];
-		//}
-		//if (keylog_start == "keylog_dump") return 'D';
-		////-----------------------------------------------
-		//
 		return NULL;
 	}
 
